@@ -88,9 +88,9 @@ module fsm_sequence(
 endmodule
   ```  
 ## OUTPUT:
-```
+
 ![WhatsApp Image 2024-11-14 at 14 09 22_8069d503](https://github.com/user-attachments/assets/016b9fc1-d61a-4a53-961c-425091e1b79a)
-```              
+              
 ## Verilog Code for Sequence Detector Using Mealy FSM
 ```
 module fsm_sequence_mealy(
@@ -192,9 +192,9 @@ module fsm_sequence_mealy(
 endmodule
 ```
  ## OUTPUT:
- ```
+ 
 ![WhatsApp Image 2024-11-14 at 14 16 29_8c27d416](https://github.com/user-attachments/assets/9e85473e-595a-4ce3-b79c-f8c1d8a3b187)
-```
+
 ## TESTBENCH FOR SEQUENCE DETECTOR:
 ```
 timescale 1ns/1ps
@@ -253,10 +253,10 @@ endmodule
 ```
 
 ## OUTPUT:
-```
+
 ![WhatsApp Image 2024-11-14 at 14 19 21_46bbbb79](https://github.com/user-attachments/assets/3504c792-818b-4ba7-89b4-6e0e249c12fd)
 
-```
+
    
 ## Conclusion
 ```
